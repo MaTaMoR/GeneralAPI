@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BukkitAPI/BukkitAPI.iml" filepath="$PROJECT_DIR$/BukkitAPI/BukkitAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeneralAPI.iml" filepath="$PROJECT_DIR$/GeneralAPI.iml" />
+    </modules>
+  </component>
+</project>
